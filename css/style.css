@@ -225,24 +225,9 @@ img {
 
 body {
     font-family: 'Work Sans', sans-serif;
-
-    background-attachment: fixed;
-    content: "";
-    width: 100%;
-    height: auto;
-    position: absolute;
-    z-index: -1;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    position: relative;
-    z-index: 1;
-    height:350px;
-    text-align: center;
-    padding:40px;
     background: url(../images/bg.jpg) no-repeat center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 p {
