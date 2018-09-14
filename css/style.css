@@ -1,11 +1,3 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
-/*--- reset code ---*/
-
 html,
 body,
 div,
@@ -402,11 +394,11 @@ p.phone span.fa {
 .agileinfo-social-grids {
     margin: 1em 0;
     flex-basis: 100%;
-    text-align: left;
+    text-align: center;
 }
 .agileinfo-social-grids ul{
 	padding:0;
-	margin:0;
+	margin:0 1em;
 }
 .agileinfo-social-grids ul li{
     display: inline-block;
@@ -430,7 +422,7 @@ p.phone span.fa {
 	margin:0 1em;
 }
 .agileinfo-social-grids ul li a span.fa.fa-linkedin-square:hover{
-	color: #55acee;
+	color: #3b5998;
 }
 
 
