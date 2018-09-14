@@ -438,6 +438,12 @@ p.phone span.fa {
 .agileinfo-social-grids ul li a span.fa.fa-rss:hover{
 	color: #f26522;
 }
+.agileinfo-social-grids ul li a span.fa.fa-linkedin-square{
+	margin:0 1em 0 0;
+}
+.agileinfo-social-grids ul li a span.fa.fa-linkedin-square:hover{
+	color: #f26522;
+}
 .agileinfo-social-grids ul li a span.fa.fa-vk:hover{
 	color: #45668e;
 }
@@ -676,7 +682,7 @@ h2.text-w3layouts {
     h2.text-w3layouts {
         font-size: 1.6em;
     }
-   
+
 }
 
 @media screen and (max-width: 320px) {
