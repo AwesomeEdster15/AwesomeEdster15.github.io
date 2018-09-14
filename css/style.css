@@ -394,11 +394,11 @@ p.phone span.fa {
 .agileinfo-social-grids {
     margin: 1em 0;
     flex-basis: 100%;
-    text-align: center;
+    text-align: left;
 }
 .agileinfo-social-grids ul{
 	padding:0;
-	margin:0 1em;
+	margin:0;
 }
 .agileinfo-social-grids ul li{
     display: inline-block;
@@ -424,7 +424,21 @@ p.phone span.fa {
 .agileinfo-social-grids ul li a span.fa.fa-linkedin-square:hover{
 	color: #3b5998;
 }
-
+.agileinfo-social-grids ul li a span.fa.fa-twitter{
+	margin:0 1em;
+}
+.agileinfo-social-grids ul li a span.fa.fa-twitter:hover{
+	color: #55acee;
+}
+.agileinfo-social-grids ul li a span.fa.fa-rss{
+	margin:0 1em 0 0;
+}
+.agileinfo-social-grids ul li a span.fa.fa-rss:hover{
+	color: #f26522;
+}
+.agileinfo-social-grids ul li a span.fa.fa-vk:hover{
+	color: #45668e;
+}
 
 /*-- //social icons --*/
 
